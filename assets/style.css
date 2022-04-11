@@ -16,6 +16,9 @@ a {
 a:hover {
   color: orange
 }
+iframe {
+  width: 100%;
+}
 
 /* Media Queries */
 @media (min-width: 640px) {

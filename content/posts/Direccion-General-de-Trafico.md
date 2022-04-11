@@ -42,12 +42,15 @@ hay problemas porque quien quiera ir vaya todos los días
 	- Sistemas (monitorización o seguridad o analítica de logs no hay externos),
 	  pero en servidores y administración de sistemas operativos se trabaja con trabajadores externos.
 ### 💾 Tecnologías
-
+- Tecnologías de desarrollo, prácticamente Java, y framework, SubVersion
+- MicroStrategy, SAS, Peralata, Power BI (NO), pero no se necesitan de esa parte.
+- Servidores Linux y Windows, todo virtualizado en servidores hiperconvergentes embebed
+  para lo que se necesite.
 
 ### 🚗 Parking
 SI (sin problema de plazas)
 ### 🧣 Bufandas
-
+No indicado
 ### 📚 Formación
 SÍ (Cursos a través de empresas, ORACLE, AMAZON, etc y se pueden proponer cursos gratuitos que interesen)
 ### 🌍 Movilidad
@@ -56,8 +59,6 @@ la localidad o provincia es la elegida. Se ha decidido deslocalizar plazas que e
 Se va a sacar un concurso de 17 plazas en las que ellos elijan (concurso interno)
 ### 🥗 Comedor
 Hay cafetería y comedor (menú 3 euros y pico)
-### 🤝 Acción Social
-
 ### 👶 Guarderia
 No
 ### 👀 Observaciones
@@ -72,48 +73,3 @@ cómo nos organicemos con la persona con la que tenemos que estar. Lo acordado e
 NIVEL DE RUIDO: Poco, sitio bastante nuevo, moderno, luminoso y agradable. Hay mucha pradera. Despachos y minipraderas.
 
 - Buen sitio para trabajar en redes (muchos proyectos pendientes de redes).
-autenticación de doble factor, renovar electrónica a cores, seguridad, etc.
-- Plazas a ofertarse (No se sabe, pero se pedirán lo máximo posible).
-- Todas las plazas se permitirían deslocalización.
-- Tecnologías de desarrollo, prácticamente Java, y framework, SubVersion.
-- Formación se puede hacer online desde provincias - Depende de cómo se ofrezca.
-- MicroStrategy, SAS, Peralata, Power BI (NO), pero no se necesitan de esa parte.
-- Servidores Linux y Windows, todo virtualizado en servidores hiperconvergentes embebed
-  para lo que se necesite.
-- No hay problema si 2 personas solicitan en la misma provincia. Posible problema es que
-  haya mucha concentración de gente en la misma jefatura y no haya más hueco para meter
-  a más gente.
-- Hay posibilidad de guardias, aunque en general no se dan guardias a C1, y menos de entrada.
-- Hay bastantes intervenciones en fin de semana, pero se remuneran aparte aunque no haya
-  guardias.
-- Se sigue trabajando en el mainframe a pesar de que se piensa en migrarlo, pero a corto
-  plazo es algo imposible. Hay que convivir con el mainframe.
-- La estrategia para los próximos 3-4 años es centrarse en 3 pilares:
-  + estabilidad de los sistemas.
-  + seguridad de los sistemas.
-  + explotación de datos.
-  Todos los proyectos tanto en infraestructura como en desarrollo (de aplicaciones),
-  en lo que respecta a la calidad, mucho énfasis en despliegues automáticos, control de calidad del software, todo orientado a estabilizar un poco los sistemas y por la parte de infraestructura todo muy orientado hacia la monitarización.
-  Herramientas de monitorización Dynatrace
-  Splunk Log Observer (Ingesta de logs y análisis de estos logs).
-- Se cree que serán posiblemente como mucho 5-6 plazas para la DGT, que ojalá fueran más.
-- Flexibles en horario, pero hay que hacer lo que se tiene asignado.
-- Automatización: ansible, y respecto a containers: no conoce el nivel técnico, cree que nada
-- Puestos de desarrollo en las sedes provinciales? SI, dependen de Gerencia de Informática:
-  + hay jefe de área (Sevilla)
-  + hay varios jefes de servicio (Santander, Sevilla, Salamanca, Burgos, La Coruña)
-  llevando proyectos muy importantes, flexibilidad pero se pide estar online y accesible,
-  no llamar a las 5 horas de llamarte. Hay que estar pendiente.
-- Desde qué organismo sería fácil llegar: concursos específico, concurso general y a nivel
-  de comisiones de servicio depende del organismo que lo firme, porque no suelen firmarlas,
-  pero si fuera así encantados. Concursar si quedasen plazas en un momento dado.
-- Plazas de sistema? las plazas serán en función del perfil que uno tenga.
-- Departamento de calidad muy orientado a despliegues automáticos y control de calidad del
-  software, pruebas automatizadas, y es un departamento que está creciendo bastante. El
-  objetivo es mejorar la calidad de los despliegue y hacer un control de lo que se despliega
-  y que se pueda desplegar de manera automática.
-- Soporte CAU desde provincias, NO, sería analizarlo, pero a priori la gente de CAU debería
-  estar en Madrid, en servicios centrales, aunque todo es negociable.
-- En provincias se desempeña el mismo trabajo que en Madrid.
-- Cuánta gente de algo que entendí como ¿ID? (RPT de 80, cubiertas 51, se sacan 17 de concurso específico y hay 11
-  vacantes pero son propietarias de personas que están en puestos de comisión de servicio)
